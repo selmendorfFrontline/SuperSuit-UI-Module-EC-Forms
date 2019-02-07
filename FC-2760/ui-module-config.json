@@ -1,0 +1,11 @@
+{
+  "dependencySets": [
+    "employee-assignment",
+    "effectivity",
+    "job-type",
+    "form-date",
+    "digital-signature",
+    "employee-profile"
+  ],
+  "name": "ec-forms"
+}
